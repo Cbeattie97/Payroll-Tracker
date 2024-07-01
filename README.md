@@ -12,7 +12,7 @@ n/a
 
 ## Usage
 
-
+https://cbeattie97.github.io/Payroll-Tracker/
 
 ![screenshot of page](assets/images/Screenshot.png)
 
